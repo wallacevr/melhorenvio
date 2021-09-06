@@ -46,7 +46,7 @@ Agora ficou mais fácil ter o serviço de cotações do Melhor Envio no seu proj
 Você pode instalar o pacote via composer, rodando o seguinte comando:
 
 ```bash
-composer require melhorenvio/shipment-sdk-php
+composer require fernandoebert/melhorenvio
 ```
 
 ## Configuração inicial
@@ -54,8 +54,6 @@ composer require melhorenvio/shipment-sdk-php
 A instância criada de Shipment permite que você passe como parâmetros o seu token e o ambiente que você trabalhará, assim terá a autenticação pronta. 
 
 Lembrando que só será válido, se a criação do token pertencer ao mesmo ambiente passado como parâmetro. 
-
-Se você ainda não fez o processo de autorização, o Melhor Envio possui outro pacote para facilitar o processo. Você pode acessá-lo clicando [aqui](https://bitbucket.org/melhor-envio/auth-sdk/src/master/).
 
 ```php
 require "vendor/autoload.php";
