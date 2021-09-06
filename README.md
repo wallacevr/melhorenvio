@@ -1,9 +1,9 @@
 # Shipment SDK - Serviço de cotações do Melhor Envio
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/melhorenvio/shipment-sdk-php.svg?style=flat-square)](https://packagist.org/packages/melhorenvio/shipment-sdk-php)
-[![Build Status](https://img.shields.io/travis/melhorenvio/shipment-sdk-php/master.svg?style=flat-square)](https://travis-ci.org/melhorenvio/shipment-sdk-php)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/fernandoebert/melhorenvio.svg?style=flat-square)](https://packagist.org/packages/fernandoebert/melhorenvio)
+[![Build Status](https://img.shields.io/travis/fernandoebert/melhorenvio/master.svg?style=flat-square)](https://travis-ci.org/fernandoebert/melhorenvio)
 [![Quality Score](https://img.shields.io/scrutinizer/g/melhorenvio/shipment-sdk-php.svg?style=flat-square)](https://scrutinizer-ci.com/g/melhorenvio/shipment-sdk-php)
-[![Total Downloads](https://img.shields.io/packagist/dt/melhorenvio/shipment-sdk-php.svg?style=flat-square)](https://packagist.org/packages/melhorenvio/shipment-sdk-php)
+[![Total Downloads](https://img.shields.io/packagist/dtfernandoebert/melhorenvio.svg?style=flat-square)](https://packagist.org/packages/fernandoebert/melhorenvio)
 
 Agora ficou mais fácil ter o serviço de cotações do Melhor Envio no seu projeto de e-commerce.
 
