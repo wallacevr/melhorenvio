@@ -1,9 +1,6 @@
 # Shipment SDK - Serviço de cotações do Melhor Envio
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/fernandoebert/melhorenvio.svg?style=flat-square)](https://packagist.org/packages/fernandoebert/melhorenvio)
-[![Build Status](https://img.shields.io/travis/fernandoebert/melhorenvio/master.svg?style=flat-square)](https://travis-ci.org/fernandoebert/melhorenvio)
-[![Quality Score](https://img.shields.io/scrutinizer/g/fernandoebert/melhorenvio.svg?style=flat-square)](https://scrutinizer-ci.com/g/fernandoebert/melhorenvio)
-[![Total Downloads](https://img.shields.io/packagist/dt/fernandoebert/melhorenvio.svg?style=flat-square)](https://packagist.org/packages/fernandoebert/melhorenvio)
+
 
 Agora ficou mais fácil ter o serviço de cotações do Melhor Envio no seu projeto de e-commerce.
 
@@ -215,11 +212,6 @@ Consulte [CONTRIBUTING](CONTRIBUTING.md) para mais detalhes.
 
 Se você descobrir algum problema de segurança, por favor, envie um e-mail para tecnologia@melhorenvio.com, ao invés de usar um *issue tracker*.
 
-## Créditos
-
-- [Rodrigo Silveira](https://github.com/rodriigogs)
-- [Marçal Pizzi](https://github.com/marcalpizzi)
-- [Pedro Barros](https://github.com/pedrobarros05)
 
 ## Licença
 

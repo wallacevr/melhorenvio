@@ -1,14 +1,13 @@
 {
-    "name": "fernandoebert/melhorenvio",
+    "name": "maxcommerce/melhorenvio",
     "description": "API Melhor envio solutions for version php",
     "minimum-stability": "stable",
     "license": "proprietary",
     "authors": [
       {
-        "name": "Fernando Ebert",
-        "email": "fernandoebert@ebertsystem.com",
-        "role": "Developer",
-        "homepage": "https://ebertsystem.com"
+        "name": "Wallace Aguiar",
+        "email": "wallaceaguiar.developer@gmail.com",
+        "role": "Developer"
       }
     ],
     "require": {
